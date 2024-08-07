@@ -2,6 +2,10 @@
 
 This is a simple Express application that demonstrates how to upload images to Cloudinary and manage products with basic API endpoints.
 
+## To illustrate how image uploads work with Cloudinary
+
+![Example Image](./image.png)
+
 ## Features
 
 -   **GET /api/v1/products**: Retrieve a list of products.
